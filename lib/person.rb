@@ -10,12 +10,12 @@ class Person
     @name
   end
 
-  def breed=(dog_breed)
-    @breed = dog_breed
+  def job=(dog_breed)
+    @job = dog_breed
   end
 
-  def breed
-    @breed
+  def job
+    @job
   end
 end
 
